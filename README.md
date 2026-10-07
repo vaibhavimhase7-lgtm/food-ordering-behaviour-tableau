@@ -119,7 +119,7 @@ if __name__ == '__main__':
 )
 ![Story](<img width="1656" height="848" alt="Screenshot 2026-10-07 075923" src="https://github.com/user-attachments/assets/b48e6a14-52a1-4ae7-a426-2da4d7d41f49" />
 )
-![Website](https://public.tableau.com/views/FOODORDERINGBEHAVIOUR_twbx/FOODORDERINGBEHAVIOURSTORY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Website](https://public.tableau.com/views/FOODORDERING_BEHAVIOUR_twbx/DecodingFoodOrderingBehaviour?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ```
 
 ## Key Insights
